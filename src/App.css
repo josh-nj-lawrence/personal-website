@@ -40,3 +40,21 @@
 .read-the-docs {
   color: #888;
 }
+
+.image-cropper{
+  width: 250px;
+  height: 250px;
+  margin: auto;
+  text-align: center;
+  left: 20;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+.headshot{
+  display: inline;
+  margin: 0 auto; 
+  margin-left: -20%;
+  height: 100%;
+  width: auto;
+}
